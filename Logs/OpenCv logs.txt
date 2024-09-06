@@ -1,0 +1,802 @@
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF10_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF10_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF10_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF11_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF12_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF12_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF12_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF13_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF13_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF13_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF14_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF15_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF15_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF15_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF16_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF16_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF16_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF17_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF17_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF18_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF19_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF1_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF1_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF1_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF1_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF20_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF21_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF21_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF21_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF22_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF22_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF22_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF23_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF23_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF23_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF24_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF24_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF25_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF25_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF25_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF26_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF26_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF26_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF27_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p2b.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF2_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF3_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF4_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF4_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF5_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF5_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF6_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF6_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF7_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF7_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF8_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF8_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF9_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian female participants/DPD_1_AF9_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM10_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM11_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM11_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM11_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM12_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM12_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM13_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM13_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM14_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM14_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM15_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM15_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM16_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM17_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM18_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM19_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM19_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM19_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM1_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM1_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM20_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM20_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM2_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM2_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM2_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM3_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM4_p5b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM5_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM5_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM5_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM5_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM6_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM7_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM7_p3b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM7_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Asian male participants/DPD_1_AM9_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF10_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF11_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF11_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF12_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF12_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF13_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF14_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF15_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF15_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF16_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF16_p4b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF16_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF17_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF17_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF17_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF18_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF18_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF19_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF19_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF1_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF1_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF1_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF20_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF21_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF21_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF21_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF22_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF22_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF22_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF23_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF23_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF24_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF24_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF24_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF25_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF25_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF25_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF25_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF25_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF26_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF26_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF26_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF26_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF27_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF27_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF27_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF27_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF27_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p4a.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p5b.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF28_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF29_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF29_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF29_p4b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF2_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF2_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF2_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF30_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF30_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF30_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF30_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF30_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF31_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF31_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF31_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF32_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF3_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF3_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF3_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF4_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF4_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF4_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF5_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF5_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF5_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF6_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF7_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF7_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black female participants/DPD_1_BF9_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM10_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM11_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM11_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM11_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM12_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM12_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM12_p5b.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM13_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM13_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM13_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM14_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM14_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM15_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM15_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM16_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM16_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM16_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM17_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM17_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM17_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM18_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM19_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM19_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM19_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM1alt_p5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM1_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM1_p3.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM1_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM20_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM20_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM20_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM21_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM21_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM22_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM22_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM22_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM23_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM23_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM24_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM25_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM25_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM25_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM25_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM26_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM26_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM28_p2b.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM29_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM29_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM29_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM29_p4.jpg - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p3.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p4.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p5.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM2_p6.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM3_p1.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM3_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM3_p3.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM3_p4.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM4_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM4_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM4_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM4_p5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM6_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM6_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM7_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM7_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM7_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM8_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Black male participants/DPD_1_BM9_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF10_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF10_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF10_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF10_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF11_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF11_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF11_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF11_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF11_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF12_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF12_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF13_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF13_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF13_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF14_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF14_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF14_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF14_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF14_p6b.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF15_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF15_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF15_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF15_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF17_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF17_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF17_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF17_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF18_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF18_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF18_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF18_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF18_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF19_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF19_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF19_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF1_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF1_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF1_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF2_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF3_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF3_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF3_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF4_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF5_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF6_p2b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF7_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF8_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF9_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx female participants/DPD_1_LF9_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM10_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM10_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM10_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM11_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM11_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM11_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM11_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM11_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM12_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM12_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM12_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM12_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM12_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM13_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM13_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM13_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM13_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM14_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM14_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM14_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM14_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM1_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM1_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM1_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM2_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM3_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM3_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM3_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM4_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM4_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM4_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM5_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM5_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM6_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM7_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM9_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Latinx male participants/DPD_1_LM9_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF1_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF1_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF1_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF2_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF2_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF3_p2b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF3_p4b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF3_p5b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF3_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF4_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF4_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF4_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF4_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF4_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p5b.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF5_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF6_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other female participants/DPD_1_OF6_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other male participants/DPD_1_OM1_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other male participants/DPD_1_OM1_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other male participants/DPD_1_OM1_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/Other male participants/DPD_1_OM2_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF10_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF10_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF10_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF11_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF12_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF12_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF12_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF13_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF13_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF13_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF14_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF14_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF15_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF15_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF15_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF16_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF16_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF17_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF17_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF18_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF19_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF19_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF19_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF1_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF1_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF20_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF21_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF21_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF21_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF22_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF24_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF24_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF25_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF25_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF25_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF26_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF26_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF26_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF27_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF27_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF27_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF28_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF28_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF28_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF29_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF2_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF2_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF2_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF30_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF30_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF30_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF31_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF31_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF31_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF31_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF32_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF33_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF33_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF33_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF33_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF33_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF34_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF34_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF34_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF34_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF34_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF35_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF35_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF35_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF35_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF35_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF36_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF3_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF3_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF4_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF4_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF5_p3c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF5_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF5_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF6_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF6_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF6_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF7_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF7_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF7_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF9_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF9_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White female participants/DPD_1_WF9_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM10_p1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM10_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM10_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM10_p4.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM10_p5.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p2.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p4.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p5.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM11_p6.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM12_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM12_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM12_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM12_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM13_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM13_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM13_p5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM14_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM14_p5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM15_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM15_p2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM16_p3.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM16_p4.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM17_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM17_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM1alt_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM1_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM1_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM1_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM21_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM21_p2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM22_p1JPG.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM23_p1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM24_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM25_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM26_p5c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM27_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM27_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM27_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM28_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM29_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM29_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM29_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM2_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM2_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM2_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM2_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM30_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM30_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM30_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM30_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM31_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM31_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM32_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM32_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM32_p6c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM33_p2c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM33_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM34_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM34_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM34_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM34_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM35_p4c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM35_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM35_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM36_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM36_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM36_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM36_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM36_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM37_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM37_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM37_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM38_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM38_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM38_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM39_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM39_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM39_p5c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM3_p1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM3_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM3_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM3_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM40_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM40_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM40_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM40_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM40_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM41_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM41_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM41_p6c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM42_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM43_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM43_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM43_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM43_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM4_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM4_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM4_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM4_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM5_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM5_p2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM5_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM5_p4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM5_p5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM6_p1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM6_p2.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM6_p3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM7_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM7_p3c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM7_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM7_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM7_p6c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM8_p2c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM8_p3c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM8_p4c.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM8_p5c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM9_p2c.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Expression Images/Unedited/White male participants/DPD_1_WM9_p4c.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF10.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF12.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF13.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF16.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF17.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF18.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF19.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF20.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF21.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF22.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF23.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF24.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF25.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF7.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF8.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_1_AF9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_AF26.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian female participants/DPD_AF27.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM10.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM11.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM13.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM16.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM17.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM18.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM19.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM20.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM3.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM4.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM7.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM8.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Asian male participants/DPD_1_AM9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF10.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF13.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF14.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF16.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF17.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF18.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF19.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF20.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF21.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF22.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF23.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF24.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF25.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF26.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF27.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF28.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF29.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF3.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF30.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF31.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF32.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF7.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black female participants/DPD_1_BF9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM10.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM13.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM16.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM17.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM18.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM19.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM1Alt.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM2.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM20.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM21.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM22.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM23.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM24.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM25.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM26.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM28.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM29.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM3.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM7.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM8.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Black male participants/DPD_1_BM9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF10.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF13.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF17.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF18.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF19.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF5.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF7.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF8.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx female participants/DPD_1_LF9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM10.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM11.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM13.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM4.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM5.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM7.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM8.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Latinx male participants/DPD_1_LM9.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF3.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other female participants/DPD_1_OF6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other male participants/DPD_1_OM1.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/Other male participants/DPD_1_OM2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF10.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF13.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF15.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF16.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF17.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF18.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF19.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF2.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF20.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF21.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF22.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF24.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF25.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF26.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF27.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF28.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF29.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF3.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF30.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF31.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF32.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF33.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF34.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF35.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF36.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF5.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF7.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF8.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White female participants/DPD_1_WF9.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM1.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM10.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM11.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM12.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM14.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM15.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM16.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM17.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM1Alt.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM2.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM21.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM22.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM23.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM24.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM25.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM26.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM27.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM28.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM29.JPG - No face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM3.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM30.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM31.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM32.JPG - More than one face detected.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM33.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM34.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM35.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM36.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM37.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM38.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM39.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM4.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM40.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM41.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM5.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM6.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM7.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM8.JPG - Processing done.
+P:/Dessertation/DPD Dataset/Stimuli/Neutral Images/Unedited/White male participants/DPD_1_WM9.JPG - Processing done.
